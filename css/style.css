@@ -675,18 +675,6 @@ footer {
     background: var(--bg-main);
 }
 
-.contact-seeking {
-    display: inline-block;
-    margin-top: 10px;
-    background: rgba(124, 77, 255, 0.1);
-    color: var(--accent-purple);
-    font-size: 0.92rem;
-    font-weight: 500;
-    padding: 6px 16px;
-    border-radius: 20px;
-    border: 1px solid rgba(124, 77, 255, 0.25);
-}
-
 .contact-layout {
     display: grid;
     grid-template-columns: 1fr 1.6fr;
